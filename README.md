@@ -3,4 +3,5 @@
 
 ### 参考文献
 [知识图谱实践-医疗影像设备知识图谱的问答系统](https://zhuanlan.zhihu.com/p/87178861)
+
 [知识图谱-基于ES(ElasticSearch)和gAnswer构建智能问答系统](https://zhuanlan.zhihu.com/p/91294301)
